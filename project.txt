@@ -1,3 +1,7 @@
-Remote repository demo project
-Initial version
+Remote repository demo project.
+
+Initial version.
+
 This line was added remotely.
+
+local update compeleted.
